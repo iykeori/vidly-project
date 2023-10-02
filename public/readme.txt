@@ -1,0 +1,1 @@
+This is a test to see if this node app reads from the public folder. i used app.use(express.static('public))
